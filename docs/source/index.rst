@@ -37,4 +37,4 @@ Contents
    :caption: API
 
    api/index
-
+   cli

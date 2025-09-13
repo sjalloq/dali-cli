@@ -24,5 +24,5 @@ exclude_patterns = []
 # Sphinx >= 5 uses root_doc; keep master_doc for older compat
 root_doc = "index"
 
-html_theme = "alabaster"
+html_theme = "sphinx_rtd_theme"
 html_static_path = ["_static"]
