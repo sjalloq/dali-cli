@@ -1,6 +1,6 @@
 # DALI CLI
 
-CLI for the Lunatone DALI IoT controller: inspect devices, run scans, control zones, and manage automations (triggers, sequences, schedules, circadians).
+CLI for the [Lunatone DALI IoT controller](https://www.lunatone.com/en/product/dali-2-iot-gateway/): inspect devices, run scans, control zones, and manage automations (triggers, sequences, schedules, circadians).
 
 ## Install (editable)
 ```bash
